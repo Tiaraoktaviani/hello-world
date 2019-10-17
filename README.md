@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+hi!
+i've changed the read-me text
